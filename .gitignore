@@ -36,3 +36,4 @@
 *.depends
 obj/
 bin/
+out/
