@@ -213,7 +213,7 @@ void process()
 
 int main( int argc, char** argv )
 {
-    printf( "Motorolla srecord to binary, (C)2017 Raph.K. version %s\n", STR_VERSION );
+    printf( "Motorola srecord to binary, (C)2017 Raph.K. version %s\n", STR_VERSION );
 
     if ( paramcheck( argc, argv ) > 0 )
     {
